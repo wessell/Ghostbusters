@@ -9,6 +9,16 @@ Project 1 for MGMT 382 Management Information Systems
   </h1>
   </head>
  
+ <!--company story and history page by Amanda-->
+ 
+ <!--management team page by Victor-->
+ 
+ <!--company products page by Lydia-->
+ 
+ <!--company services page by Shivain-->
+ 
+ <!--company testimonials page by Lorrin-->
+ 
  <body bgcolor="#000000">
  
  <h2>
