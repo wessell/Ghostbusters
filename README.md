@@ -36,6 +36,87 @@ Project 1 for MGMT 382 Management Information Systems
  
  <!--company story and history page by Amanda-->
  
+ <html>
+<!Amanda Konopacki, MGMT 38200-003, T and TH 12-1:15> 
+<head>
+
+<h1> <font color= “green” > Georgina and George Ghost Grabbers </h1>
+
+<title>
+Georgina and George Ghost Grabbers
+</title>
+
+</head>
+<body bgcolor=“	#000000”>
+
+<h2> <i>About Us</i> </h2>
+	
+<! story of our founders>
+<p> Georgina and George Georgeferd were the founding parents of the Georgina and George's Ghost 
+Grabbers company in the 1700s. It was on a cold, windy night that Georgina became frightened by random 
+sounds coming from an upstairs closet. George went to inspect the noise with <b><font color = "white">only a candlestick and funnel </font><b>
+in hand. After seeing his first ghost and realizing how unequipped he was to take on this spirit, he knew 
+something had to change. Thus, Georgina and George's Ghost Grabbers products began to develop.  
+</p>
+<! candle and funnel image>
+<img src ="candlefunell.jpg" height=250 width=200>
+
+<p>
+<!continued story and product development>
+For over 300 years, we have worked to create cheap, user friendly products to help you rid your home of 
+unwanted company just as George did for Georgina many years ago. We have come a long way from 
+the candlestick and the funnel as you'll see on our products catalog. Our first 3 products were designed by
+Georgina and George themselves:
+<! ordered list of first 3 products>
+<font size = "2">
+<ol>
+<li> Spector Detector </li>
+<li> Ghost Hunting Starter Kit </li>
+<li> Spirit Translator </li>
+</ol>
+</font>
+Each product has a special for everyone's special needs as they rid their homes. Some reasons people have
+rid their homes:
+<!unordered list of reasons>
+<ul>
+<li>Ghosts move the furniture while you are asleep</li>
+<li>Ghosts make noise that keeps you from getting enough sleep</li>
+<li>Ghosts don't pay rent</li>
+<li><font face = "Courier"><u>Ghosts have stolen small children in rare cases</font></u></li>
+</ul>
+</p>  
+
+<! link to outside website>
+During the 1980's, our products became so famous that Delphi Films approached us to make a fictional 
+movie based off of the work that our technicians do each and every day. Take a look at our movie!
+<br>
+<a href = "http://www.ghostbusters.com" target = "_blank"> Click here to see the movie! </a>
+
+
+<p>
+<! link to download word doc>
+<font size = "5">
+Complete our Ghost Experiences Form to tell us about your unwanted spirit.
+<a href= "ghostform.docx"> Download Form here!</a>
+<br>
+<br>
+<! link to email us>
+ Email us your completed Ghost Experiences Form for a <b><font color = "yellow">FREE</font></b> technician visit.
+<a href = "mailto:akonopa@purdue.edu"> Click here to send us an email! </a>
+</font>
+</p>
+ 
+
+<script>
+    document.write("This page was last modified on: " + document.lastModified +"");
+</script>
+
+</body>
+
+
+</font>
+</html>
+ 
  <!--management team page by Victor-->
  <body background-color="">
 
