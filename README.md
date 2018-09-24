@@ -2,12 +2,36 @@
 Project 1 for MGMT 382 Management Information Systems
 <html>
  
- <head>
- <h1>
- <font color="green">
+ <!--Front page-->
+ 
+ <frameset rows="20%,80%">
+  <frame src="frame_a.htm">
+  <head>
+  <h1>
+  <font color="green">
   Georgina and George's Ghost Grabbers 
   </h1>
   </head>
+   </frameset>
+   
+  <frameset cols="25%,75%">
+  <frame src="frame_b.htm">
+  <h3> Menu </h3>
+ <body>
+  <ul>
+   <b> Company Story and History </b>
+   <b> Management Team </b>
+   <b> Products </b>
+   <b> Services </b>
+   <b> Customer Testimonials </b>
+  </ul>
+ </body>
+ 
+ <frame src="frame_c">
+ <body>
+ <h> Insert Picture Here </h>
+ </body>
+ </frameset>
  
  <!--company story and history page by Amanda-->
  
