@@ -19,6 +19,7 @@ Project 1 for MGMT 382 Management Information Systems
   <h3> Menu </h3>
  <body>
   <ul>
+   <!--find a way to link these so when you click on them it takes you to the corresponding page-->
    <b> Company Story and History </b>
    <b> Management Team </b>
    <b> Products </b>
