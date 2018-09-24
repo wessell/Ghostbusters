@@ -43,14 +43,54 @@ Project 1 for MGMT 382 Management Information Systems
  <!--company testimonials page by Lorrin-->
  
  <body bgcolor="#000000">
- 
- <h2>
- Customer Testimonials
- </h2>
- 
- <p>
- Georgina and George Ghost Grabbers products never cease to amaze me. Their innovative design and respectable prices are the best in this   market. I would highly recommend giving them a try with any of your ghostly needs. Tina Smith
- </p>
- </body>
+  
+ <head>
+<b>
+<h1> 
+<h1 style=“text-align:center;”>
+
+<font color= “green” > Georgina and George Ghost Grabbers </h1>
+</b>
+
+
+
+<u>
+<h1 style="text-align:center;">What Our Customers Love About Us:</h1>
+</u>
+
+1. Customer Service is of the upmost importance. <br>
+2. We will do our best to help anyone with any of their ghostly needs.<br>
+3. None of our products will harm the ghosts. <br>
+
+<!--Lorrin Alexander, MGMT 382, Section 3, 12-1:15-->
+
+
+</head>
+
+</h1>
+
+<body bgcolor=“	#000000”>
+<u>
+
+<h2 style="text-align:center;">Customer Testimonials</h2>
+</u>
+</h2>
+
+<p>
+<i>
+ Georgina and George Ghost Grabbers products never cease to amaze me. Their innovative design and respectable prices are the best in this market. I would highly recommend giving them a try with any of your ghostly needs.  
+</i>
+Tina Smith
+</p>
+<p>
+<i> I used to never get a good night of sleep, but with Georgina and George ghost Grabber products I have been sleeping the entire night. Happy Hunting!!
+</i> Jim Shertz 
+
+</p>
+
+</body>
+
+
+</font>
  
 </html>
